@@ -1,0 +1,6 @@
+F2NAS2 BOARD
+M:	Michael Walle <michael@walle.cc>
+S:	Maintained
+F:	board/terramaster/f2nas2/
+F:	include/configs/f2nas2.h
+F:	configs/f2nas2_defconfig

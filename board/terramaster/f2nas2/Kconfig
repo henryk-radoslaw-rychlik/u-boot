@@ -1,0 +1,12 @@
+if TARGET_F2NAS2
+
+config SYS_BOARD
+	default "f2nas2"
+
+config SYS_VENDOR
+	default "terramaster"
+
+config SYS_CONFIG_NAME
+	default "f2nas2"
+
+endif
